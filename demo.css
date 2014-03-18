@@ -40,7 +40,7 @@ a:hover {
 }
 
 #tabSwitcher .tabs {
-	border-bottom: 5px solid #036;
+	border-bottom: 5px solid #F09;
 }
 
 #tabSwitcher .tabs a {
@@ -54,11 +54,11 @@ a:hover {
 }
 
 #tabSwitcher .tabs .selected {
-	background: #036;
+	background: #F09;
 }
 
 #tabSwitcher .toSwitch {
-	border: 1px solid #CCC;
+	border: 1px solid #F09;
 	border-top: none;
 	border-radius: 0 0 7px 7px;
 	overflow: hidden;
