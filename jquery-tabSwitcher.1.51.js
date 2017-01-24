@@ -1,5 +1,5 @@
 /*
-	Copyright 2017-01-20 Jake Nicholson (www.eskdale.net)
+	Copyright 2017-01-20 Jake Nicholson (https://jakenicholson.co.uk/)
 	
 	This is free and unencumbered software released into the public domain.
 
