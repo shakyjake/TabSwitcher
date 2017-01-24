@@ -1,7 +1,6 @@
-tab-switcher
+Tabbed Content
 ============
 
 Lightweight mobile-friendly-ish tab switcher
 
-Licensed under The :) License
-http://licence.visualidiot.com/
+Demo: https://shakyjake.github.io/TabSwitcher
